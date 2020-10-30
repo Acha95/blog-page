@@ -2,12 +2,13 @@ module.exports = {
   "title": "阿茶",
   "description": "阿茶的小作坊",
   "dest": "public",
+   "assetsPublicPath":'/blog/public/',
   "head": [
     [
       "link",
       {
         "rel": "icon",
-        "href": "/favicon.ico"
+        "href": "/blog/public/favicon.ico"
       }
     ],
     [
@@ -23,12 +24,12 @@ module.exports = {
     "nav": [
       {
         "text": "Home",
-        "link": "/",
+        "link": "/blog/public/",
         "icon": "reco-home"
       },
       {
         "text": "TimeLine",
-        "link": "/timeline/",
+        "link": "/blog/public/timeline/",
         "icon": "reco-date"
       },
       {
@@ -37,7 +38,7 @@ module.exports = {
         "items": [
           {
             "text": "vuepress-reco",
-            "link": "/docs/theme-reco/"
+            "link": "/blog/public/docs/theme-reco/"
           }
         ]
       },
@@ -64,7 +65,7 @@ module.exports = {
       }
     ],
     "sidebar": {
-      "/docs/theme-reco/": [
+      "/blog/public/docs/theme-reco/": [
         "",
         "theme",
         "plugin",
@@ -96,12 +97,12 @@ module.exports = {
         "link": "https://vuepress-theme-reco.recoluan.com"
       }
     ],
-    "logo": "/logo.png",
+    "logo": "/blog/public/logo.png",
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "阿茶",
-    "authorAvatar": "/avatar.png",
+    "authorAvatar": "/public/avatar.png",
     "record": "xxxx",
     "startYear": "2017"
   },
