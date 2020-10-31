@@ -2,7 +2,7 @@ module.exports = {
   "title": "阿茶",
   "description": "阿茶的小作坊",
   "dest": "public",
- // "base":"/blog/public/",
+  "base":"/blog/public/",
   "head": [
     [
       "link",
