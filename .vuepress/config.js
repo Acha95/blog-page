@@ -2,7 +2,7 @@ module.exports = {
   "title": "阿茶",
   "description": "阿茶的小作坊",
   "dest": "public",
-  "base":"/blog/public/",
+ // "base":"/blog/public/",
   "head": [
     [
       "link",
@@ -21,7 +21,18 @@ module.exports = {
   ],
   "theme": "reco",
   "themeConfig": {
+    locales: {
+      '/': {
+        lang: 'zh-CN'
+      },
+      '/en/': {
+        lang: 'en-US'
+      }
+    },
+    mode: 'auto',
+    modePicker: true,
     "nav": [
+
       {
         "text": "Home",
         "link": "/",
@@ -48,18 +59,13 @@ module.exports = {
         "items": [
           {
             "text": "GitHub",
-            "link": "https://github.com/recoluan",
+            "link": "https://github.com/Acha95",
             "icon": "reco-github"
           },
           {
-            "text": "WeChat",
-            "link": "https://github.com/recoluan",
-            "icon": "reco-github"
-          },
-          {
-            "text": "Sina",
-            "link": "https://github.com/recoluan",
-            "icon": "reco-github"
+            "text": "Weibo",
+            "link": "https://weibo.com/u/3943412834",
+            "icon": "reco-wechat"
           }
         ]
       }
@@ -91,7 +97,7 @@ module.exports = {
         "link": "https://www.recoluan.com"
       },
       {
-        "title": "vuepress-theme-reco",
+        "title": "主题Docs",
         "desc": "A simple and beautiful vuepress Blog & Doc theme.",
         "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         "link": "https://vuepress-theme-reco.recoluan.com"
@@ -102,9 +108,9 @@ module.exports = {
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "阿茶",
-    "authorAvatar": "/avatar.png",
-    "record": "xxxx",
-    "startYear": "2017"
+    "authorAvatar": "/logo.png",
+    "record": "生活不易，还请珍惜",
+    "startYear": "2020"
   },
   "markdown": {
     "lineNumbers": true

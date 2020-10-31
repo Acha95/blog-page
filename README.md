@@ -1,16 +1,16 @@
 ---
 home: true
-heroText: eee
-tagline: eeee
-# heroImage: /hero.png
-# heroImageStyle: {
+heroText: 阿茶的小作坊
+tagline: 她既理解并支持一切与自己不同的人，又没有丢弃个性中属于自己的小小标记和特征
+#heroImage: /hero.png
+#heroImageStyle: {
 #   maxWidth: '600px',
 #   width: '100%',
 #   display: block,
 #   margin: '9rem auto 2rem',
 #   background: '#fff',
 #   borderRadius: '1rem',
-# }
+#}
 bgImageStyle: {
   height: '450px'
 }
