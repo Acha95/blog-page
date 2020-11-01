@@ -28,10 +28,10 @@ module.exports = {
             {
               name: 'Count on me',
               artist: 'Isabela Moner',
-              url: '/blog/public/music/CountOnMe.mp3',
+              url: '/music/CountOnMe.mp3',
               cover: 'http://p1.music.126.net/F-wqrMJ8AeW4x9F4kbTQ7Q==/1394180756543778.jpg?param=130y130'
             },
-            /* {
+            {
                name: '枷锁',
                artist: '何野',
                url: '/music/何野-枷锁.mp3',
@@ -39,20 +39,14 @@ module.exports = {
              },
              {
                name: '天亮以前说再见',
-               artist: '何野',
-               url: '/music/何野-天亮以前说再见.mp3',
-               cover: 'http://p2.music.126.net/V09meAIA1__m4Pj6aQMoBQ==/109951163806175491.jpg?param=130y130'
-             },
-             {
-               name: '天亮以前说再见',
                artist: '曲肖冰',
                url: '/music/曲肖冰-天亮以前说再见.mp3',
                cover: 'https://p1.music.126.net/jHH9tbSF4sKWo0NMp21fgg==/109951162929110712.jpg?param=130y130'
-             },*/
+             },
             {
               name: '终于等到你',
               artist: '张靓颖',
-              url: '/blog/public/music/终于等到你.mp3',
+              url: '/music/终于等到你.mp3',
               cover: 'https://p2.music.126.net/PDSLSEj5EHvGWeaTy5MqWQ==/109951163064519620.jpg?param=130y130'
             }
           ],
