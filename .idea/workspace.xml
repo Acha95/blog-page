@@ -1,64 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0daf3b27-ff58-4d9a-a4f8-88382c04e078" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blogs/Java/2020/103101.md" afterDir="false" />
+    <list default="true" id="0daf3b27-ff58-4d9a-a4f8-88382c04e078" name="Default Changelist" comment="处理内容">
+      <change afterPath="$PROJECT_DIR$/.vuepress/public/music/CountOnMe.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/public/music/终于等到你.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogs/deploy/2020/103101.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogs/deploy/2020/103102.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vuepress/public/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/public/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/category1/2018/121501.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/category1/2019/092101.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/category1/2020/092101.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/category2/2016/121501.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/category2/2017/092101.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/css/0.styles.6db6a465.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/img/bg.2cfdbb33.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/1.a3d34cc6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/10.5f87cbcc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/11.8c5f27cd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/12.52686f3a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/13.f99f39e0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/14.be81b543.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/15.286fd87d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/16.7650363a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/17.4b457149.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/18.9a98bc96.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/19.e9ae78a5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/20.9655de4f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/3.ff9f6ee0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/4.73d26c8a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/5.e2e4bbc3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/6.8c83a2ad.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/7.0200bd87.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/8.8ff010fa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/9.e8735a7f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/app.723731f1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blogs/category1/2018/121501.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blogs/category1/2019/092101.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blogs/category1/2020/092101.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blogs/category2/2016/121501.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blogs/category2/2017/092101.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blogs/other/guide.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/category1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/category2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/docs/theme-reco/api.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/docs/theme-reco/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/docs/theme-reco/plugin.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/docs/theme-reco/theme.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/hero.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tag/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tag/tag1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tag/tag2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tag/tag3/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tag/tag4/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/timeline/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/2020/103101.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Java/2020/103101.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -118,7 +70,7 @@
           <entry key="html" value="7" />
           <entry key="js" value="2" />
           <entry key="json" value="1" />
-          <entry key="md" value="4" />
+          <entry key="md" value="6" />
           <entry key="png" value="1" />
         </counts>
       </usages-collector>
@@ -129,21 +81,21 @@
           <entry key="Image" value="1" />
           <entry key="JSON" value="1" />
           <entry key="JavaScript" value="2" />
-          <entry key="Markdown" value="4" />
+          <entry key="Markdown" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="168" />
-          <entry key="md" value="321" />
-          <entry key="txt" value="22" />
+          <entry key="js" value="366" />
+          <entry key="md" value="730" />
+          <entry key="txt" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="168" />
-          <entry key="Markdown" value="321" />
-          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="JavaScript" value="366" />
+          <entry key="Markdown" value="730" />
+          <entry key="PLAIN_TEXT" value="28" />
         </counts>
       </usages-collector>
     </session>
@@ -153,8 +105,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package-lock.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="7547" column="65" selection-start-line="7547" selection-start-column="59" selection-end-line="7547" selection-end-column="65" />
+            <state relative-caret-position="268">
+              <caret line="7553" column="65" selection-start-line="7553" selection-start-column="65" selection-end-line="7553" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -176,11 +128,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.vuepress/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="71" selection-start-line="71" selection-end-line="72" />
+            <state relative-caret-position="339">
+              <caret line="43" column="107" selection-start-line="43" selection-start-column="107" selection-end-line="43" selection-end-column="107" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogs/deploy/2020/103101.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogs/deploy/2020/103102.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="90">
+                <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -194,23 +170,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blogs/Java/2020/103101.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <first_editor relative-caret-position="255">
+                <caret line="17" selection-start-line="17" selection-end-line="17" />
               </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogs/other/guide.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -223,13 +189,16 @@
       <find>A simple</find>
       <find>href</find>
       <find>/blog/public</find>
-      <find>reco-github</find>
       <find>assets</find>
       <find>reduce</find>
+      <find>reco-github</find>
     </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
+    <dirStrings>
+      <dir>D:\code\blog\blog.io</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -242,8 +211,10 @@
         <option value="$PROJECT_DIR$/blogs/生活札记/2020/092101.md" />
         <option value="$PROJECT_DIR$/blogs/Java/2018/121501.md" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/.vuepress/config.js" />
+        <option value="$PROJECT_DIR$/blogs/deploy/2020/103102.md" />
+        <option value="$PROJECT_DIR$/blogs/deploy/2020/103101.md" />
         <option value="$PROJECT_DIR$/blogs/Java/2020/103101.md" />
+        <option value="$PROJECT_DIR$/.vuepress/config.js" />
       </list>
     </option>
   </component>
@@ -265,7 +236,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="540" />
-    <option name="y" value="17" />
+    <option name="y" value="7" />
     <option name="width" value="976" />
     <option name="height" value="1040" />
   </component>
@@ -296,20 +267,9 @@
             <path>
               <item name="blog.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog.io" type="462c0819:PsiDirectoryNode" />
-              <item name="blogs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog.io" type="462c0819:PsiDirectoryNode" />
-              <item name="blogs" type="462c0819:PsiDirectoryNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog.io" type="462c0819:PsiDirectoryNode" />
-              <item name="blogs" type="462c0819:PsiDirectoryNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="2020" type="462c0819:PsiDirectoryNode" />
+              <item name=".vuepress" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="music" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -320,7 +280,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../allinfinance/src/whns-eloan/front-end/website-system" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\everelegance\Downloads\vuepress-theme-reco-master\acha-blog\node_modules\prettier" />
@@ -331,6 +291,9 @@
       <recent name="D:\code\blog\blog.io\blogs\Java" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\blog\blog.io\.vuepress\public\music" />
+      <recent name="D:\code\blog\blog.io\blogs\deploy\2020" />
+      <recent name="D:\code\blog\blog.io\blogs\deploy" />
       <recent name="D:\code\blog\blog.io\.vuepress\public" />
       <recent name="D:\code\blog\blog.io" />
     </key>
@@ -360,7 +323,7 @@
       <updated>1603755836553</updated>
       <workItem from="1603755854229" duration="1184000" />
       <workItem from="1603861298250" duration="1461000" />
-      <workItem from="1604067732958" duration="14541000" />
+      <workItem from="1604067732958" duration="24003000" />
     </task>
     <task id="LOCAL-00001" summary="处理静态文件加载不出的问题">
       <created>1604068340064</created>
@@ -397,14 +360,36 @@
       <option name="project" value="LOCAL" />
       <updated>1604072745178</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="处理内容">
+      <created>1604106883699</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604106883699</updated>
+    </task>
+    <task id="LOCAL-00007" summary="处理内容">
+      <created>1604107020939</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604107020939</updated>
+    </task>
+    <task id="LOCAL-00008" summary="处理内容">
+      <created>1604107274567</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604107274567</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17186000" />
+    <option name="totallyTimeSpent" value="26648000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1923077" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -420,7 +405,7 @@
       <window_info anchor="bottom" id="Log Viewer" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="SOQL Query" order="9" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.42128122" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.28338763" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.19001086" />
       <window_info anchor="bottom" id="Anonymous Apex" order="13" weight="0.329718" />
@@ -460,7 +445,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="处理静态文件加载不出的问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="处理静态文件加载不出的问题" />
+    <MESSAGE value="处理内容" />
+    <option name="LAST_COMMIT_MESSAGE" value="处理内容" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/public/timeline/index.html">
@@ -514,8 +500,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="7547" column="65" selection-start-line="7547" selection-start-column="59" selection-end-line="7547" selection-end-column="65" />
+        <state relative-caret-position="268">
+          <caret line="7553" column="65" selection-start-line="7553" selection-start-column="65" selection-end-line="7553" selection-end-column="65" />
         </state>
       </provider>
     </entry>
@@ -568,14 +554,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogs/other/guide.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blogs/生活札记/2020/103101.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -613,20 +591,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.vuepress/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="71" selection-start-line="71" selection-end-line="72" />
+    <entry file="file://$PROJECT_DIR$/blogs/other/guide.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogs/deploy/2020/103101.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogs/deploy/2020/103102.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogs/Java/2020/103101.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <first_editor relative-caret-position="255">
+            <caret line="17" selection-start-line="17" selection-end-line="17" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vuepress/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="43" column="107" selection-start-line="43" selection-start-column="107" selection-end-line="43" selection-end-column="107" />
         </state>
       </provider>
     </entry>
