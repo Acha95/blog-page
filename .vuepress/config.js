@@ -28,7 +28,7 @@ module.exports = {
             {
               name: 'Count on me',
               artist: 'Isabela Moner',
-              url: '/music/CountOnMe.mp3',
+              url: '/blog/public/music/CountOnMe.mp3',
               cover: 'http://p1.music.126.net/F-wqrMJ8AeW4x9F4kbTQ7Q==/1394180756543778.jpg?param=130y130'
             },
             /* {
@@ -52,7 +52,7 @@ module.exports = {
             {
               name: '终于等到你',
               artist: '张靓颖',
-              url: '/music/终于等到你.mp3',
+              url: '/blog/public/music/终于等到你.mp3',
               cover: 'https://p2.music.126.net/PDSLSEj5EHvGWeaTy5MqWQ==/109951163064519620.jpg?param=130y130'
             }
           ],
