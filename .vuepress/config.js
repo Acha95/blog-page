@@ -27,26 +27,26 @@ module.exports = {
             // 本地文件示例
             {
               name: 'Count on me',
-              artist: 'Isabela Moner',
-              url: '/music/CountOnMe.mp3',
+              artist: 'Connie Talbot',
+              url: 'https://sharefs.yun.kugou.com/202011101842/6576e4aea908bbb1ba4dc26fbc8a80d1/G140/M04/1C/15/zA0DAFuNxAaAD2fyADYGYMGITbg672.mp3',
               cover: 'http://p1.music.126.net/F-wqrMJ8AeW4x9F4kbTQ7Q==/1394180756543778.jpg?param=130y130'
             },
             {
                name: '枷锁',
                artist: '何野',
-               url: '/music/何野-枷锁.mp3',
+               url: 'http://m10.music.126.net/20201110191837/b967fe6f3c1a2808352a7c520b3f6847/ymusic/0f08/0559/0353/8b8634917023dc4bd78a492018cdc1af.mp3',
                cover: 'http://p2.music.126.net/V09meAIA1__m4Pj6aQMoBQ==/109951163806175491.jpg?param=130y130'
              },
              {
                name: '天亮以前说再见',
                artist: '曲肖冰',
-               url: '/music/曲肖冰-天亮以前说再见.mp3',
+               url: 'http://m10.music.126.net/20201110192004/c4d679846d7b02aac897b9fe25f336b8/ymusic/025a/525b/5459/502265136ce1cb0bccb6c3685ebaf71e.mp3',
                cover: 'https://p1.music.126.net/jHH9tbSF4sKWo0NMp21fgg==/109951162929110712.jpg?param=130y130'
              },
             {
               name: '终于等到你',
               artist: '张靓颖',
-              url: '/music/终于等到你.mp3',
+              url: 'http://m10.music.126.net/20201110192244/5ae815b64eeebabd1c842857bfd3affb/ymusic/ced3/84d3/1274/accd5115e82557d4b5b653d2530482d9.mp3',
               cover: 'https://p2.music.126.net/PDSLSEj5EHvGWeaTy5MqWQ==/109951163064519620.jpg?param=130y130'
             }
           ],
