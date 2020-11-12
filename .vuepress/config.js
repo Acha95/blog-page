@@ -24,13 +24,12 @@ module.exports = {
         '@vuepress-reco/vuepress-plugin-bgm-player',
         {
           audios: [
-            // 本地文件示例
             {
               name: 'Count on me',
               artist: 'Connie Talbot',
               url: 'https://sharefs.yun.kugou.com/202011101842/6576e4aea908bbb1ba4dc26fbc8a80d1/G140/M04/1C/15/zA0DAFuNxAaAD2fyADYGYMGITbg672.mp3',
               cover: 'http://p1.music.126.net/F-wqrMJ8AeW4x9F4kbTQ7Q==/1394180756543778.jpg?param=130y130'
-            },
+            }/*,
             {
                name: '枷锁',
                artist: '何野',
@@ -42,11 +41,11 @@ module.exports = {
                artist: '曲肖冰',
                url: 'http://m10.music.126.net/20201110192004/c4d679846d7b02aac897b9fe25f336b8/ymusic/025a/525b/5459/502265136ce1cb0bccb6c3685ebaf71e.mp3',
                cover: 'https://p1.music.126.net/jHH9tbSF4sKWo0NMp21fgg==/109951162929110712.jpg?param=130y130'
-             },
+             }*/,
             {
               name: '终于等到你',
               artist: '张靓颖',
-              url: 'http://m10.music.126.net/20201110192244/5ae815b64eeebabd1c842857bfd3affb/ymusic/ced3/84d3/1274/accd5115e82557d4b5b653d2530482d9.mp3',
+              url: 'https://sharefs.yun.kugou.com/202011120931/066f885e2548309876974ae341bbbaee/G192/M05/19/15/AA4DAF5vMIyABV-KAEgYPdZoZ-E779.mp3',
               cover: 'https://p2.music.126.net/PDSLSEj5EHvGWeaTy5MqWQ==/109951163064519620.jpg?param=130y130'
             }
           ],
@@ -55,7 +54,20 @@ module.exports = {
             bottom: '10px',
             'z-index': '999999'
           }
-        }]
+        }],
+    [
+      '@vuepress-reco/comments',
+      {
+        solution: 'vssue',
+        options: {
+          title: 'vuepress-theme-reco',
+          platform: 'github',
+          owner: 'Acha95',
+          repo: 'Acha\'s Comments',
+          clientId: 'bd4ed813ff8d4291ed21',
+          clientSecret: '2735a5417b068cfc5719a4b0490bc19cca0af244 ',
+        }
+    }]
   ],
   "theme": "reco",
   "themeConfig": {
