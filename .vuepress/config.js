@@ -63,9 +63,9 @@ module.exports = {
           title: 'vuepress-theme-reco',
           platform: 'github',
           owner: 'Acha95',
-          repo: 'Acha\'s Comments',
+          repo: 'comments',
           clientId: 'bd4ed813ff8d4291ed21',
-          clientSecret: '2735a5417b068cfc5719a4b0490bc19cca0af244 ',
+          clientSecret: '2735a5417b068cfc5719a4b0490bc19cca0af244',
         }
     }]
   ],
