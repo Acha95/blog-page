@@ -57,7 +57,7 @@ module.exports = {
         }],
     [
       '@vuepress-reco/comments',
-      {
+     /* {
         solution: 'vssue',
         options: {
           title: 'vuepress-theme-reco',
@@ -67,6 +67,13 @@ module.exports = {
           clientId: 'bd4ed813ff8d4291ed21',
           clientSecret: '2735a5417b068cfc5719a4b0490bc19cca0af244',
         }
+      }*/
+      {
+        solution: 'valine',
+        options: {
+          appId: 'Xo5pYhH0VvDVL34DimcOaJ4k-gzGzoHsz',// your appId
+          appKey: 'nbxQv4hyPhCWYgvwuOW14oH8', // your appKey
+      }
     }]
   ],
   "theme": "reco",
